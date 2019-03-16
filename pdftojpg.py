@@ -1,4 +1,5 @@
 from pdf2image import convert_from_path
-pages = convert_from_path('test.pdf', 500)
+pages = convert_from_path('p2.pdf', 500)
 for page in pages:
-    page.save('out.jpg', 'JPEG')
+    page.save('outf.jpg', 'JPEG')
+    break
