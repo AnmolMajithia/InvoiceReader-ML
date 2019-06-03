@@ -36,3 +36,10 @@ Data extraction of invoices with no specific template and multiple format suppor
 
 
 
+## TODO
+#### 1) Better spaCy entity points in training data
+#### 2) More spaCy pipes
+#### 3) Image processing ML(SVM,CNN)
+#### 4) Tesseract better preprocessing text extraction
+#### 5) Table removal before processing image
+#### 6) Code Optimization
